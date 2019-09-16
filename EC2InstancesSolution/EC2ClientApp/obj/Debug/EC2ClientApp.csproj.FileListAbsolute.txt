@@ -1,0 +1,14 @@
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\EC2ClientApp.exe.config
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\EC2ClientApp.exe
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\EC2ClientApp.pdb
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\AWSSDK.EC2.dll
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\AWSSDK.EC2.pdb
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\bin\Debug\AWSSDK.EC2.xml
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\obj\Debug\EC2ClientApp.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\obj\Debug\EC2ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\obj\Debug\EC2ClientApp.csproj.CopyComplete
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\obj\Debug\EC2ClientApp.exe
+C:\Users\stuar\source\repos\EC2InstancesSolution\EC2ClientApp\obj\Debug\EC2ClientApp.pdb

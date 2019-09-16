@@ -1,0 +1,16 @@
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\QueueClient.exe.config
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\QueueClient.exe
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\QueueClient.pdb
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\AWSSDK.SQS.dll
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\AWSSDK.SQS.pdb
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\AWSSDK.SQS.xml
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\obj\Debug\QueueClient.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\obj\Debug\QueueClient.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\obj\Debug\QueueClient.csproj.CopyComplete
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\obj\Debug\QueueClient.exe
+C:\Users\stuar\source\repos\QueueSolution\QueueClient\obj\Debug\QueueClient.pdb

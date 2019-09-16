@@ -1,0 +1,11 @@
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\bin\Debug\netcoreapp2.1\EnvVariablesFunction.deps.json
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\bin\Debug\netcoreapp2.1\EnvVariablesFunction.runtimeconfig.json
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\bin\Debug\netcoreapp2.1\EnvVariablesFunction.runtimeconfig.dev.json
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\bin\Debug\netcoreapp2.1\EnvVariablesFunction.dll
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\bin\Debug\netcoreapp2.1\EnvVariablesFunction.pdb
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\obj\Debug\netcoreapp2.1\EnvVariablesFunction.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\obj\Debug\netcoreapp2.1\EnvVariablesFunction.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\obj\Debug\netcoreapp2.1\EnvVariablesFunction.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\obj\Debug\netcoreapp2.1\EnvVariablesFunction.AssemblyInfo.cs
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\obj\Debug\netcoreapp2.1\EnvVariablesFunction.dll
+C:\Users\stuar\source\repos\LambdaEnvVariablesSolution\EnvVariablesFunction\obj\Debug\netcoreapp2.1\EnvVariablesFunction.pdb

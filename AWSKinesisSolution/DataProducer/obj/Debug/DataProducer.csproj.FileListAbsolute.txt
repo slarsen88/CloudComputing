@@ -1,0 +1,14 @@
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\DataProducer.exe.config
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\DataProducer.exe
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\DataProducer.pdb
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\AWSSDK.Kinesis.dll
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\AWSSDK.Kinesis.pdb
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\bin\Debug\AWSSDK.Kinesis.xml
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\obj\Debug\DataProducer.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\obj\Debug\DataProducer.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\obj\Debug\DataProducer.csproj.CopyComplete
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\obj\Debug\DataProducer.exe
+C:\Users\stuar\source\repos\AWSKinesisSolution\DataProducer\obj\Debug\DataProducer.pdb

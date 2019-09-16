@@ -1,0 +1,27 @@
+<database>
+    <vehicle plate="6723-AYV" make="Ford" model="Focus" year="2012">
+        <owner name="John Smith">
+            <phone>+12067788246</phone>
+        </owner>
+    </vehicle>
+    <vehicle plate="FAE-6137" make="Honda" model="Civic" year="2018">
+        <owner name="Jennifer Hartley">
+          <phone>+12067788246</phone>
+        </owner>
+    </vehicle>
+    <vehicle plate="682-VYT" make="Jeep" model="Wrangler" year="2016">
+        <owner name="Matt Johnson">
+          <phone>+12067788246</phone>
+        </owner>
+    </vehicle>
+    <vehicle plate="3235-BPA" make="Honda" model="CRV" year="2014">
+        <owner name="Dawn Fink">
+            <phone>+12067788246</phone>
+        </owner>
+    </vehicle>
+    <vehicle plate="FXD-1777" make="Chevrolet" model="Cruze" year="2016">
+        <owner name="Tim Carpenter">
+          <phone>16174595008</phone>
+        </owner>
+    </vehicle>
+</database>

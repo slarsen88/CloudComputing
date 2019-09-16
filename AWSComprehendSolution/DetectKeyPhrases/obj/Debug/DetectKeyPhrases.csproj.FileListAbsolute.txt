@@ -1,0 +1,15 @@
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\phrases.xml
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\DetectKeyPhrases.exe.config
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\DetectKeyPhrases.exe
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\DetectKeyPhrases.pdb
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\AWSSDK.Comprehend.dll
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\AWSSDK.Comprehend.pdb
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\AWSSDK.Comprehend.xml
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\obj\Debug\DetectKeyPhrases.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\obj\Debug\DetectKeyPhrases.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\obj\Debug\DetectKeyPhrases.csproj.CopyComplete
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\obj\Debug\DetectKeyPhrases.exe
+C:\Users\stuar\source\repos\AWSComprehendSolution\DetectKeyPhrases\obj\Debug\DetectKeyPhrases.pdb

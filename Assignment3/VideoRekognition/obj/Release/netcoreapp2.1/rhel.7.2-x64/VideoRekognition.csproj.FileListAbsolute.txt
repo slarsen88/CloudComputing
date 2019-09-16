@@ -1,0 +1,11 @@
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\bin\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.deps.json
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\bin\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.runtimeconfig.json
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\bin\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.runtimeconfig.dev.json
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\bin\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.dll
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\bin\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.pdb
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\obj\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\obj\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\obj\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\obj\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.AssemblyInfo.cs
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\obj\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.dll
+C:\Users\stuar\source\repos\Assignment3\VideoRekognition\obj\Release\netcoreapp2.1\rhel.7.2-x64\VideoRekognition.pdb

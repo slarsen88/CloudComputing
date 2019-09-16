@@ -1,0 +1,16 @@
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\DetectObjectsInImage.exe.config
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\DetectObjectsInImage.exe
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\DetectObjectsInImage.pdb
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\AWSSDK.Core.dll
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\AWSSDK.Rekognition.dll
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\AWSSDK.Core.xml
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\AWSSDK.Rekognition.xml
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\obj\Debug\DetectObjectsInImage.csproj.CoreCompileInputs.cache
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\obj\Debug\DetectObjectsInImage.csproj.CopyComplete
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\obj\Debug\DetectObjectsInImage.exe
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\obj\Debug\DetectObjectsInImage.pdb
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\Images\CoupleWithDog.jpg
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\Images\HouseWithCar.jpg
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\Images\KidsPlayingOnStreet.jpg
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\Images\ManOnBike.jpg
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectObjectsInImage\bin\Debug\Images\TwoDogsRunning.jpg

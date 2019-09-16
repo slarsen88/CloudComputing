@@ -1,0 +1,11 @@
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AnalyzeVideos.exe.config
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AnalyzeVideos.exe
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AnalyzeVideos.pdb
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Core.dll
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Rekognition.dll
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Core.xml
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Rekognition.xml
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.csproj.CoreCompileInputs.cache
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.csproj.CopyComplete
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.exe
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.pdb

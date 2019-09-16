@@ -1,0 +1,7 @@
+C:\Users\stuar\source\repos\Module10\APIGateway\bin\Debug\APIGateway.exe.config
+C:\Users\stuar\source\repos\Module10\APIGateway\bin\Debug\APIGateway.exe
+C:\Users\stuar\source\repos\Module10\APIGateway\bin\Debug\APIGateway.pdb
+C:\Users\stuar\source\repos\Module10\APIGateway\obj\Debug\APIGateway.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\Module10\APIGateway\obj\Debug\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\Module10\APIGateway\obj\Debug\APIGateway.exe
+C:\Users\stuar\source\repos\Module10\APIGateway\obj\Debug\APIGateway.pdb

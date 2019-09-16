@@ -1,0 +1,11 @@
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\bin\Debug\DetectLabels.exe.config
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\bin\Debug\DetectLabels.exe
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\bin\Debug\DetectLabels.pdb
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\bin\Debug\AWSSDK.Core.dll
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\bin\Debug\AWSSDK.Rekognition.dll
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\bin\Debug\AWSSDK.Core.xml
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\bin\Debug\AWSSDK.Rekognition.xml
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\obj\Debug\DetectLabels.csproj.CoreCompileInputs.cache
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\obj\Debug\DetectLabels.csproj.CopyComplete
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\obj\Debug\DetectLabels.exe
+C:\BellevueCollege\Courses\CS455\Examples\AWSRekognitionSolution\DetectLabels\obj\Debug\DetectLabels.pdb

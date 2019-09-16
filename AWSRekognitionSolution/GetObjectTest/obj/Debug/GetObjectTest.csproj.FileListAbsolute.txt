@@ -1,0 +1,17 @@
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\GetObjectTest.exe.config
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\GetObjectTest.exe
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\GetObjectTest.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.Rekognition.dll
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.S3.dll
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.Rekognition.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.Rekognition.xml
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.S3.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\bin\Debug\AWSSDK.S3.xml
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\obj\Debug\GetObjectTest.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\obj\Debug\GetObjectTest.csproj.CopyComplete
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\obj\Debug\GetObjectTest.exe
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\obj\Debug\GetObjectTest.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\GetObjectTest\obj\Debug\GetObjectTest.csprojAssemblyReference.cache

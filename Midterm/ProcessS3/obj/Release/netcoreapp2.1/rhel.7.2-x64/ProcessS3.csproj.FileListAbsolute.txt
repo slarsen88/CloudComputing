@@ -1,0 +1,11 @@
+C:\Users\stuar\source\repos\Midterm\ProcessS3\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.deps.json
+C:\Users\stuar\source\repos\Midterm\ProcessS3\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.runtimeconfig.json
+C:\Users\stuar\source\repos\Midterm\ProcessS3\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.runtimeconfig.dev.json
+C:\Users\stuar\source\repos\Midterm\ProcessS3\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.dll
+C:\Users\stuar\source\repos\Midterm\ProcessS3\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.pdb
+C:\Users\stuar\source\repos\Midterm\ProcessS3\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\Midterm\ProcessS3\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\Midterm\ProcessS3\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\Midterm\ProcessS3\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.AssemblyInfo.cs
+C:\Users\stuar\source\repos\Midterm\ProcessS3\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.dll
+C:\Users\stuar\source\repos\Midterm\ProcessS3\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3.pdb

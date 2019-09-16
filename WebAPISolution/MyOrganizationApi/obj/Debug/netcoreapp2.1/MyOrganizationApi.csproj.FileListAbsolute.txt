@@ -1,0 +1,14 @@
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\bin\Debug\netcoreapp2.1\MyOrganizationApi.deps.json
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\bin\Debug\netcoreapp2.1\MyOrganizationApi.runtimeconfig.json
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\bin\Debug\netcoreapp2.1\MyOrganizationApi.runtimeconfig.dev.json
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\bin\Debug\netcoreapp2.1\MyOrganizationApi.dll
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\bin\Debug\netcoreapp2.1\MyOrganizationApi.pdb
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.RazorAssemblyInfo.cache
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.RazorAssemblyInfo.cs
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.AssemblyInfo.cs
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.RazorTargetAssemblyInfo.cache
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.dll
+C:\Users\stuar\source\repos\WebAPISolution\MyOrganizationApi\obj\Debug\netcoreapp2.1\MyOrganizationApi.pdb

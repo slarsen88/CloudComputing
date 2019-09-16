@@ -1,0 +1,15 @@
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\obj\Debug\ComprehendClient.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\obj\Debug\ComprehendClient.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\phrases_old.xml
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\ComprehendClient.exe.config
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\ComprehendClient.exe
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\ComprehendClient.pdb
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\AWSSDK.Comprehend.dll
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\AWSSDK.Comprehend.pdb
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\AWSSDK.Comprehend.xml
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\obj\Debug\ComprehendClient.csproj.CopyComplete
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\obj\Debug\ComprehendClient.exe
+C:\Users\stuar\source\repos\AWSComprehendSolution\ComprehendClient\obj\Debug\ComprehendClient.pdb

@@ -1,0 +1,12 @@
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\bin\Debug\netcoreapp2.1\DMVDatabase.xml
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\bin\Debug\netcoreapp2.1\DMVAutomationTicketingService.deps.json
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\bin\Debug\netcoreapp2.1\DMVAutomationTicketingService.runtimeconfig.json
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\bin\Debug\netcoreapp2.1\DMVAutomationTicketingService.runtimeconfig.dev.json
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\bin\Debug\netcoreapp2.1\DMVAutomationTicketingService.dll
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\bin\Debug\netcoreapp2.1\DMVAutomationTicketingService.pdb
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\obj\Debug\netcoreapp2.1\DMVAutomationTicketingService.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\obj\Debug\netcoreapp2.1\DMVAutomationTicketingService.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\obj\Debug\netcoreapp2.1\DMVAutomationTicketingService.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\obj\Debug\netcoreapp2.1\DMVAutomationTicketingService.AssemblyInfo.cs
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\obj\Debug\netcoreapp2.1\DMVAutomationTicketingService.dll
+C:\Users\stuar\source\repos\Final\DMVAutomationTicketingService\obj\Debug\netcoreapp2.1\DMVAutomationTicketingService.pdb

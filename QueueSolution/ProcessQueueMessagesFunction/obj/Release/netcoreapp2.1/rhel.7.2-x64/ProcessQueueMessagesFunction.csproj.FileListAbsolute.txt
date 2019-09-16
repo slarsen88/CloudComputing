@@ -1,0 +1,11 @@
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.deps.json
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.runtimeconfig.json
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.runtimeconfig.dev.json
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.dll
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.pdb
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.AssemblyInfo.cs
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.dll
+C:\Users\stuar\source\repos\QueueSolution\ProcessQueueMessagesFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessQueueMessagesFunction.pdb

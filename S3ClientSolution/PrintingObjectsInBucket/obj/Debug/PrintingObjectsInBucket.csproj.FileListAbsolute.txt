@@ -1,0 +1,12 @@
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\bin\Debug\PrintingObjectsInBucket.exe.config
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\bin\Debug\PrintingObjectsInBucket.exe
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\bin\Debug\PrintingObjectsInBucket.pdb
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\bin\Debug\AWSSDK.S3.dll
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\bin\Debug\AWSSDK.S3.xml
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\obj\Debug\PrintingObjectsInBucket.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\obj\Debug\PrintingObjectsInBucket.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\obj\Debug\PrintingObjectsInBucket.csproj.CopyComplete
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\obj\Debug\PrintingObjectsInBucket.exe
+C:\Users\stuar\source\repos\S3ClientSolution\PrintingObjectsInBucket\obj\Debug\PrintingObjectsInBucket.pdb

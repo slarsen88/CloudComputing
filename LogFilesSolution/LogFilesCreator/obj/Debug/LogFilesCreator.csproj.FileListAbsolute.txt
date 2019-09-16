@@ -1,0 +1,7 @@
+C:\Users\stuar\source\repos\LogFilesSolution\LogFilesCreator\bin\Debug\LogFilesCreator.exe.config
+C:\Users\stuar\source\repos\LogFilesSolution\LogFilesCreator\bin\Debug\LogFilesCreator.exe
+C:\Users\stuar\source\repos\LogFilesSolution\LogFilesCreator\bin\Debug\LogFilesCreator.pdb
+C:\Users\stuar\source\repos\LogFilesSolution\LogFilesCreator\obj\Debug\LogFilesCreator.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\LogFilesSolution\LogFilesCreator\obj\Debug\LogFilesCreator.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\LogFilesSolution\LogFilesCreator\obj\Debug\LogFilesCreator.exe
+C:\Users\stuar\source\repos\LogFilesSolution\LogFilesCreator\obj\Debug\LogFilesCreator.pdb

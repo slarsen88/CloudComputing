@@ -1,0 +1,44 @@
+<data>
+    <courses>
+        <course id="311">
+            <name>Design Patterns</name>
+            <description>Discusses design patterns concepts</description>
+        </course>
+        <course id="455">
+            <name>Cloud Computing</name>
+            <description>Discusses cloud computing concepts with emphasis on AWS services</description>
+        </course>
+        <course id="460">
+            <name>Machine Learning</name>
+            <description>Discusses machine learning concepts</description>
+        </course>
+    </courses>
+
+    <teachers>
+        <teacher id="10001">
+            <name>Fatma Serce</name>
+            <office>L222</office>
+        </teacher>
+        <teacher id="10002">
+            <name>Sara Farag</name>
+            <office>L222</office>
+        </teacher>
+        <teacher id="10002">
+            <name>Alfred Nehme</name>
+            <office>L222</office>
+        </teacher>
+    </teachers>
+
+    <students>
+        <student id="20001">Jordan Betcher</student>
+        <student id="20002">Job Betcher</student>
+        <student id="20003">Sean Hardin</student>
+        <student id="20004">Joey Colombi</student>
+        <student id="20005">Ana Satkeeva</student>
+        <student id="20006">Kevin Tran</student>
+        <student id="20007">Ferdinand Tembo</student>
+        <student id="20008">Shaila Hirji</student>
+        <student id="20009">Alex Kourkoumelis</student>
+        <student id="20010">Stuart Larsen</student>
+    </students>
+</data>

@@ -1,0 +1,7 @@
+C:\Users\stuar\source\repos\weatherparsingtest\weatherparsingtest\bin\Debug\weatherparsingtest.exe.config
+C:\Users\stuar\source\repos\weatherparsingtest\weatherparsingtest\bin\Debug\weatherparsingtest.exe
+C:\Users\stuar\source\repos\weatherparsingtest\weatherparsingtest\bin\Debug\weatherparsingtest.pdb
+C:\Users\stuar\source\repos\weatherparsingtest\weatherparsingtest\obj\Debug\weatherparsingtest.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\weatherparsingtest\weatherparsingtest\obj\Debug\weatherparsingtest.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\weatherparsingtest\weatherparsingtest\obj\Debug\weatherparsingtest.exe
+C:\Users\stuar\source\repos\weatherparsingtest\weatherparsingtest\obj\Debug\weatherparsingtest.pdb

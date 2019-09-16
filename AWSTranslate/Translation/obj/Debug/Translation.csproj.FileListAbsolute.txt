@@ -1,0 +1,14 @@
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\Translation.exe.config
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\Translation.exe
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\Translation.pdb
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\AWSSDK.Translate.dll
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\AWSSDK.Translate.pdb
+C:\Users\stuar\source\repos\AWSTranslate\Translation\bin\Debug\AWSSDK.Translate.xml
+C:\Users\stuar\source\repos\AWSTranslate\Translation\obj\Debug\Translation.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\AWSTranslate\Translation\obj\Debug\Translation.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\AWSTranslate\Translation\obj\Debug\Translation.csproj.CopyComplete
+C:\Users\stuar\source\repos\AWSTranslate\Translation\obj\Debug\Translation.exe
+C:\Users\stuar\source\repos\AWSTranslate\Translation\obj\Debug\Translation.pdb

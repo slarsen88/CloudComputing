@@ -1,0 +1,14 @@
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\DetectTextClient.exe.config
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\DetectTextClient.exe
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\DetectTextClient.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\AWSSDK.Rekognition.dll
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\AWSSDK.Rekognition.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\bin\Debug\AWSSDK.Rekognition.xml
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\obj\Debug\DetectTextClient.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\obj\Debug\DetectTextClient.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\obj\Debug\DetectTextClient.csproj.CopyComplete
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\obj\Debug\DetectTextClient.exe
+C:\Users\stuar\source\repos\AWSRekognitionSolution\DetectTextClient\obj\Debug\DetectTextClient.pdb

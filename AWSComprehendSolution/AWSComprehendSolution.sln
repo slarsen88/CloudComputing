@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprehendClient", "ComprehendClient\ComprehendClient.csproj", "{C8FC2C68-30C4-496E-AB09-AE35AD534FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectKeyPhrases", "DetectKeyPhrases\DetectKeyPhrases.csproj", "{D3B3D479-0D97-4E04-8BFD-86777F745735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FC2C68-30C4-496E-AB09-AE35AD534FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FC2C68-30C4-496E-AB09-AE35AD534FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FC2C68-30C4-496E-AB09-AE35AD534FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FC2C68-30C4-496E-AB09-AE35AD534FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B3D479-0D97-4E04-8BFD-86777F745735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B3D479-0D97-4E04-8BFD-86777F745735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B3D479-0D97-4E04-8BFD-86777F745735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B3D479-0D97-4E04-8BFD-86777F745735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEBF1307-76CB-4ACC-A2F4-0F174155521F}
+	EndGlobalSection
+EndGlobal

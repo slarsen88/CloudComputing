@@ -1,0 +1,14 @@
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\DynamoDBClient.exe.config
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\DynamoDBClient.exe
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\DynamoDBClient.pdb
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\AWSSDK.DynamoDBv2.pdb
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\obj\Debug\DynamoDBClient.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\obj\Debug\DynamoDBClient.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\obj\Debug\DynamoDBClient.csproj.CopyComplete
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\obj\Debug\DynamoDBClient.exe
+C:\Users\stuar\source\repos\DynamoDBSolution\DynamoDBClient\obj\Debug\DynamoDBClient.pdb

@@ -1,0 +1,11 @@
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.deps.json
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.runtimeconfig.json
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.runtimeconfig.dev.json
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.dll
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\bin\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.pdb
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.AssemblyInfo.cs
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.dll
+C:\Users\stuar\source\repos\ProcessS3Event\ProcessS3Event\obj\Release\netcoreapp2.1\rhel.7.2-x64\ProcessS3Event.pdb

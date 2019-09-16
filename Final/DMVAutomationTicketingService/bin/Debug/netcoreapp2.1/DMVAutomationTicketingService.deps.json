@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "ad10108a90dba75ffa1452bf260fca858060db46"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DMVAutomationTicketingService/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.102.6",
+          "AWSSDK.Rekognition": "3.3.100.33",
+          "AWSSDK.SimpleNotificationService": "3.3.101.23"
+        },
+        "runtime": {
+          "DMVAutomationTicketingService.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.102.6": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.102.6"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.3.100.33": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.102.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.100.33"
+          }
+        }
+      },
+      "AWSSDK.SimpleNotificationService/3.3.101.23": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.102.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleNotificationService.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.23"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DMVAutomationTicketingService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.102.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7p8ZiQmfvo36dceEJmfuP3uk2EqzJqd2+e0Re38xwBvuKLPa0M67RBJGTaOXBKRgfPUSvZfkjxsnYCsQPxB9zw==",
+      "path": "awssdk.core/3.3.102.6",
+      "hashPath": "awssdk.core.3.3.102.6.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.3.100.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HC37GZOfXNm5+QPqT34z+YOhU/244kG1p937zdnh7U2Pfkg/y69A0hSkwSkY9/2UI3V0cSZN9Vhkod4W5otMpw==",
+      "path": "awssdk.rekognition/3.3.100.33",
+      "hashPath": "awssdk.rekognition.3.3.100.33.nupkg.sha512"
+    },
+    "AWSSDK.SimpleNotificationService/3.3.101.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bTPazyo+suhrUao+nE+7zgSe0ABbxe8p28zCd9L4XSVEAyMnjT+lcoj+t5GcIoOcu/u53/sDGN3aZ9Yg4v3WYg==",
+      "path": "awssdk.simplenotificationservice/3.3.101.23",
+      "hashPath": "awssdk.simplenotificationservice.3.3.101.23.nupkg.sha512"
+    }
+  }
+}

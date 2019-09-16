@@ -1,0 +1,17 @@
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AnalyzeVideos.exe.config
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AnalyzeVideos.exe
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AnalyzeVideos.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Rekognition.dll
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Rekognition.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.Rekognition.xml
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.csproj.CopyComplete
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.exe
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\obj\Debug\AnalyzeVideos.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.S3.dll
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.S3.pdb
+C:\Users\stuar\source\repos\AWSRekognitionSolution\AnalyzeVideos\bin\Debug\AWSSDK.S3.xml

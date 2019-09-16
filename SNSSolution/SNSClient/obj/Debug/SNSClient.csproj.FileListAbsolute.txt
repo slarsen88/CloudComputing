@@ -1,0 +1,14 @@
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\SNSClient.exe.config
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\SNSClient.exe
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\SNSClient.pdb
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\AWSSDK.Core.dll
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\AWSSDK.SimpleNotificationService.dll
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\AWSSDK.Core.pdb
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\AWSSDK.Core.xml
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\AWSSDK.SimpleNotificationService.pdb
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\bin\Debug\AWSSDK.SimpleNotificationService.xml
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\obj\Debug\SNSClient.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\obj\Debug\SNSClient.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\obj\Debug\SNSClient.csproj.CopyComplete
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\obj\Debug\SNSClient.exe
+C:\Users\stuar\source\repos\SNSSolution\SNSClient\obj\Debug\SNSClient.pdb
